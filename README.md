@@ -28,7 +28,7 @@
 
  
 
-### 互联网的寒冬下，如何手握安卓70万年薪。一堂课带你走进象牙塔
+### 互联网的寒冬下，如何手握安卓65W+年薪。一堂课带你走进象牙塔
 
  
 
@@ -76,21 +76,21 @@
 
  
 
- \* [2020年Bat面试集合](#2020年Bat面试集合)
+* [2020年Bat面试集合](#2020年Bat面试集合)
 
- \* [架构相关面试](#架构相关面试)
+* [架构相关面试](#架构相关面试)
 
- \* [NDK相关面试](#NDK相关面试)
+* [NDK相关面试](#NDK相关面试)
 
- \* [算法相关面试](#算法相关面试)
+* [算法相关面试](#算法相关面试)
 
- \* [高级UI相关面试](#高级UI相关面试)
+* [高级UI相关面试](#高级UI相关面试)
 
- \* [性能优化相关面试](#性能优化相关面试)
+* [性能优化相关面试](#性能优化相关面试)
 
- \* [专业领域相关面试](#专业领域相关面试)
+* [专业领域相关面试](#专业领域相关面试)
 
- \* [其他](#其他)
+* [其他](#其他)
 
  
 
@@ -102,71 +102,70 @@
 
  
 
-\- [Android P禁止了http对你们有影响吗？https原理你知道吗？](android/https.md)
+* [Android P禁止了http对你们有影响吗？https原理你知道吗？](android/https.md)
 
  
 
-\- [什么是对称加密，什么是非对称加密，公钥与私钥属于对称加密吗](android/cert.md)
+* [什么是对称加密，什么是非对称加密，公钥与私钥属于对称加密吗](android/cert.md)
 
  
 
-\- [https请求会不会存在被拦截的可能？你对这方面有过研究吗](android/cert.md)
+* [https请求会不会存在被拦截的可能？你对这方面有过研究吗](android/cert.md)
 
  
 
-\- [之前有做过直播吗?你们是通过什么方式实现直播的? 直播互动是如何做的](android/live.md)
+* [之前有做过直播吗?你们是通过什么方式实现直播的? 直播互动是如何做的](android/live.md)
 
  
 
-\- [腾讯课堂-直播中 网速比较差的条件下，如何使画面保证流畅的效果](android/live-optimitor.md)
+* [腾讯课堂-直播中 网速比较差的条件下，如何使画面保证流畅的效果](android/live-optimitor.md)
 
  
 
-\- [腾讯课堂-硬编码与软编码区别，录屏时如何选取硬编与软编](android/mediacodec.md)
+* [腾讯课堂-硬编码与软编码区别，录屏时如何选取硬编与软编](android/mediacodec.md)
 
  
 
-\- [Flutter为什么会做到一处写 处处运行 与RN的区别](android/thread.md)
+* [Flutter为什么会做到一处写 处处运行 与RN的区别](android/thread.md)
 
  
 
-\- [Flutter的图形引擎与Android的渲染引擎原理](android/thread.md)
+* [Flutter的图形引擎与Android的渲染引擎原理](android/thread.md)
 
  
 
-\- [对于Tersorflow你怎么理解的，有做过人工智能的应用吗](android/tersorflow.md)
+* [对于Tersorflow你怎么理解的，有做过人工智能的应用吗](android/tersorflow.md)
 
  
 
-\- [为什么Android会出现卡顿](android/thread.md)
+* [为什么Android会出现卡顿](android/thread.md)
 
  
 
-\- [给你一个Demo 你如何快速定位ANR](android/anr.md)
+* [给你一个Demo 你如何快速定位ANR](android/anr.md)
 
  
 
-\- [Hadler是如何实现线程通信的](study/framework/Android消息机制.md)
+* [Hadler是如何实现线程通信的](study/framework/Android消息机制.md)
 
  
 
-\- [Glide对Bitmap的缓存与解码复用如何做到的](android/thread.md)
+* [Glide对Bitmap的缓存与解码复用如何做到的](android/thread.md)
+ 
+
+* [说说你对Dalvik虚拟机的认识 ](android/dalvik.md)
 
  
 
-\- [说说你对Dalvik虚拟机的认识 ](android/dalvik.md)
+* [接下来说说 Android 虚拟机Dalvik与ART区别在哪里？](android/artordalvik.md)
 
  
 
-\- [接下来说说 Android 虚拟机Dalvik与ART区别在哪里？](android/artordalvik.md)
+* [Handler的原理是什么?能深入分析下 Handler的实现机制吗？](./study/framework/Handler机制源码.md)
 
  
 
-\- [Handler的原理是什么?能深入分析下 Handler的实现机制吗？](./study/framework/Handler机制源码.md)
-
- 
-
-\- [ Handler中有Loop死循环，为什么没有阻塞主线程，原理是什么](study/framework/Android消息机制.md)
+* [ Handler中有Loop死循环，为什么没有阻塞主线程，原理是什么](study/framework/Android消息机制.md)
 
  
 
@@ -178,99 +177,99 @@
 
  
 
-\- [详细说说Binder通信原理与机制](android/binder.md)
+* [详细说说Binder通信原理与机制](android/binder.md)
 
  
 
-\- [Linux自带多种进程通信方式，为什么Android都没采用二偏偏使用Binder通信](android/binder1.md)
+* [Linux自带多种进程通信方式，为什么Android都没采用二偏偏使用Binder通信](android/binder1.md)
 
  
 
-\- [谈一谈Binder的原理和实现一次拷贝的流程](android/binder2.md)
+* [谈一谈Binder的原理和实现一次拷贝的流程](android/binder2.md)
 
  
 
-\- [进程保活如何做到，你们保活率有多高？](android/process.md)
+* [进程保活如何做到，你们保活率有多高？](android/process.md)
 
  
 
-\- [ButterKnife为什么执行效率为什么比其他注入框架高？它的原理是什么](android/butterknife.md)
+* [ButterKnife为什么执行效率为什么比其他注入框架高？它的原理是什么](android/butterknife.md)
 
  
 
-\- [组件化如何实现，组件化与插件化的差别在哪里，该怎么选型](android/commpont.md)
+* [组件化如何实现，组件化与插件化的差别在哪里，该怎么选型](android/commpont.md)
 
  
 
-\- [说下组件之间的跳转和组件通信原理机制](android/commpontrounter.md)
+* [说下组件之间的跳转和组件通信原理机制](android/commpontrounter.md)
 
  
 
-\- [有没有使用过组件化，组件化通信如何做到的，ARouter有用过吗](android/router.md)
+* [有没有使用过组件化，组件化通信如何做到的，ARouter有用过吗](android/router.md)
 
  
 
-\- [有用过插件化吗？谈谈插件化原理？](android/plugin.md)
+* [有用过插件化吗？谈谈插件化原理？](android/plugin.md)
 
  
 
-\- [热修复连环炮(热修复是什么  有接触过tinker吗，tinker原理是什么)](tencent/tinker.md)
+* [热修复连环炮(热修复是什么  有接触过tinker吗，tinker原理是什么)](tencent/tinker.md)
 
  
 
-\- [增量升级为什么减少升级代价，增量升级原理](tencent/update.md)
+* [增量升级为什么减少升级代价，增量升级原理](tencent/update.md)
 
  
 
-\- [ PMS之前了解过吗?你对PMS怎么看的，能聊聊PMS的详细实现流程吗](android/pms.md)
+* [ PMS之前了解过吗?你对PMS怎么看的，能聊聊PMS的详细实现流程吗](android/pms.md)
 
  
 
-\- [ AMS在Android的作用是什么，Activtiy启动跟AMS有什么关系](android/ams.md)
+* [ AMS在Android的作用是什么，Activtiy启动跟AMS有什么关系](android/ams.md)
 
  
 
-\- [你知道什么是AOP吗？AOP与OOP有什么区别，谈谈AOP的原理](android/aop.md)
+* [你知道什么是AOP吗？AOP与OOP有什么区别，谈谈AOP的原理](android/aop.md)
 
  
 
-\- [网易云--手机QQ的换肤是怎么做到的，你对换肤有了解吗？看过换肤的原理没？](android/load.md)
+* [网易云--手机QQ的换肤是怎么做到的，你对换肤有了解吗？看过换肤的原理没？](android/load.md)
 
  
 
-\- [垃圾回收机制是如何实现的](android/traked.md)
+* [垃圾回收机制是如何实现的](android/traked.md)
 
  
 
-\- [数据库版本如何单独升级，并且将原有数据迁移过去](tencent/sqlite.md)
+* [数据库版本如何单独升级，并且将原有数据迁移过去](tencent/sqlite.md)
 
  
 
-\- [如何设计一个多用户，多角色的App架构](android/thread.md)
+* [如何设计一个多用户，多角色的App架构](android/thread.md)
 
  
 
-\- [谈谈volatile关键字与synchronized关键字在内存的区别](android/volatile.md)
+* [谈谈volatile关键字与synchronized关键字在内存的区别](android/volatile.md)
 
  
 
-\- [synchronize关键字在虚拟机执行原理是什么，能谈一谈什么是内存可见性，锁升级吗](android/synchronize.md)
+* [synchronize关键字在虚拟机执行原理是什么，能谈一谈什么是内存可见性，锁升级吗](android/synchronize.md)
 
  
 
-\- [类比于微信，如何对Apk进行极限压缩,谈下Android压缩8大步 ](android/AndResGuard.md)
+* [类比于微信，如何对Apk进行极限压缩,谈下Android压缩8大步 ](android/AndResGuard.md)
 
  
 
-\- [如何彻底防止反编译，dex加密怎么做 ](android/dex.md)
+* [如何彻底防止反编译，dex加密怎么做 ](android/dex.md)
 
  
 
-\- [序列化与反序列化的原理，Android的Parcelable与Serializable区别是什么](android/herms.md)
+* [序列化与反序列化的原理，Android的Parcelable与Serializable区别是什么](android/herms.md)
 
  
 
-\- [你曾经有没有对SqliteDatabase做过封装，你自己有设计过数据库框架吗?或者只是停留在使用ormlite  greenDao这类框架](android/sqlite.md)
+* [你曾经有没有对SqliteDatabase做过封装，你自己有设计过数据库框架吗?或者只是停留在使用ormlite  greenDao这类框架](android/sqlite.md)
 
  
 
@@ -278,47 +277,47 @@
 
  
 
-\- [谈谈线程池原理](android/thread1.md)
+* [谈谈线程池原理](android/thread1.md)
 
  
 
-\- [抖音-谈下音视频同步原理，音频和视频能绝对同步吗](android/play_ffmpeg.md)
+* [抖音-谈下音视频同步原理，音频和视频能绝对同步吗](android/play_ffmpeg.md)
 
  
 
-\- [抖音-有做过直播特效吗? 说说直播特效的实现原理与难点](android/live_meiyan.md)
+* [抖音-有做过直播特效吗? 说说直播特效的实现原理与难点](android/live_meiyan.md)
 
  
 
-\- [抖音-Include、Merge、ViewStub的作用和原理](android/thread.md)
+* [抖音-Include、Merge、ViewStub的作用和原理](android/thread.md)
 
  
 
-\- [抖音-如何在脸部区域增加特效，怎样才能使这个特效跟随脸部](android/thread.md)
+* [抖音-如何在脸部区域增加特效，怎样才能使这个特效跟随脸部](android/thread.md)
 
  
 
-\- [抖音-Include、Merge、ViewStub的作用和原理](android/thread.md)
+* [抖音-Include、Merge、ViewStub的作用和原理](android/thread.md)
 
  
 
-\- [抖音-Opencv中定位人脸的五个点是如何做到的](android/thread.md)
+* [抖音-Opencv中定位人脸的五个点是如何做到的](android/thread.md)
 
  
 
-\- [今日头条-为什么RecyclerView加载首屏会慢一些](android/thread.md)
+* [今日头条-为什么RecyclerView加载首屏会慢一些](android/thread.md)
 
  
 
-\- [今日头条-View绘制机制，onMeasure  onLayout ,onDraw方法的调用机制谈一下](android/thread.md)
+* [今日头条-View绘制机制，onMeasure  onLayout ,onDraw方法的调用机制谈一下](android/thread.md)
 
  
 
-\- [今日头条-ThreadLocal底层原理和Handler的关系](android/thread.md)
+* [今日头条-ThreadLocal底层原理和Handler的关系](android/thread.md)
 
  
 
-\- [今日头条-sync关键字和lock的区别?  他们对线程的控制原理简单说下](android/thread.md)
+* [今日头条-sync关键字和lock的区别?  他们对线程的控制原理简单说下](android/thread.md)
 
  
 
@@ -377,7 +376,6 @@
 ### NDK相关面试
 
  
-
  [Java中有指针吗？说说 为什么C会需要指针](android/thread.md)
 
  
@@ -430,25 +428,25 @@
 
  
 
-\- [Hash值是如何生成](./basic/1-algo/2-hash.md)
+* [Hash值是如何生成](./basic/1-algo/2-hash.md)
 
-\- [谈谈HashMap的原理](./basic/1-algo/2-hash.md)
+* [谈谈HashMap的原理](./basic/1-algo/2-hash.md)
 
-\- [最小生成树算法](./basic/1-algo/3-mst.md)
+* [最小生成树算法](./basic/1-algo/3-mst.md)
 
-\- [最短路径算法](./basic/1-algo/4-path.md)
+* [最短路径算法](./basic/1-algo/4-path.md)
 
-\- [KMP算法](./basic/1-algo/5-kmp.md)
+* [KMP算法](./basic/1-algo/5-kmp.md)
 
-\- [查找算法](./basic/1-algo/6-search.md)
+* [查找算法](./basic/1-algo/6-search.md)
 
-\- [排序算法](./basic/1-algo/7-sort.md)
+* [排序算法](./basic/1-algo/7-sort.md)
 
-\- [跳跃表](./basic/1-algo/9-skip_list.md)
+* [跳跃表](./basic/1-algo/9-skip_list.md)
 
-\- [对称加密与非对称加密是如何实现的](./basic/1-algo/9-skip_list.md)
+* [对称加密与非对称加密是如何实现的](./basic/1-algo/9-skip_list.md)
 
-\- [-----持续更新  未完待续-------](#)
+* [-----持续更新  未完待续-------](#)
 
  
 
@@ -512,7 +510,7 @@
 
  
 
-\> 智能家居串口面试
+> 智能家居串口面试
 
  
 
