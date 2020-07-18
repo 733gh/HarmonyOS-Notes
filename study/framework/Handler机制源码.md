@@ -18,7 +18,7 @@
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/944365-4450ea6a59b6b183.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/945/format/webp)
+![img](https://upload-images.jianshu.io/upload_images/944365-4450ea6a59b6b183.png?imageMogr2/auto-orient/strip%7CimageView2/2)
 
 示意图
 
