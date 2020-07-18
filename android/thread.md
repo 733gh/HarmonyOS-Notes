@@ -1,8 +1,6 @@
 #### 干货正在创造中 尽情期待，觉得内容可以的话  可以在右上方点击个小小的start
 
-作者：[涂程](<https://github.com/interviewandroid/AndroidInterView>)
 
-校对：[David](<https://github.com/interviewandroid/AndroidInterView>)
 
 文章状态：编辑中
 
