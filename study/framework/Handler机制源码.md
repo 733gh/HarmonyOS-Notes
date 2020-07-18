@@ -503,7 +503,7 @@
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/944365-79f00f900b3471c0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
+![img](https://upload-images.jianshu.io/upload_images/944365-79f00f900b3471c0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
 
 示意图
 
