@@ -196,7 +196,7 @@
 
 > 图形识别Opencv面试
 
-[-----持续更新 未完待续-------](
+[-----持续更新 未完待续-------](https://github.com/interviewandroid/AndroidInterView/tree/598d20d2a91c06cbec3a21909f4a4d87bbc88abd#)
  
 
 [GitHub干货集合](https://github.com/733gh/Android-Notes)
