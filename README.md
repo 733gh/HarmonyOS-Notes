@@ -30,7 +30,7 @@
 ## --------------------------------预习专区----------------------------------
 
 - [Android预习专题](https://github.com/733gh/Android-Notes/blob/598d20d2a91c06cbec3a21909f4a4d87bbc88abd/android/README.md)
-  - [视频学习地址]（https://space.bilibili.com/598568989）
+  - [视频学习地址](https://space.bilibili.com/598568989)
   - [详细说说Binder通信原理与机制](https://github.com/733gh/Android-Notes/blob/598d20d2a91c06cbec3a21909f4a4d87bbc88abd/android/binder.md)
 
 ## ---------------------2020Android年高级面试----------------------
