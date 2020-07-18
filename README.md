@@ -30,6 +30,7 @@
 ## --------------------------------预习专区----------------------------------
 
 - [Android预习专题](https://github.com/733gh/Android-Notes/blob/598d20d2a91c06cbec3a21909f4a4d87bbc88abd/android/README.md)
+  - [视频学习地址]（https://space.bilibili.com/598568989）
   - [详细说说Binder通信原理与机制](https://github.com/733gh/Android-Notes/blob/598d20d2a91c06cbec3a21909f4a4d87bbc88abd/android/binder.md)
 
 ## ---------------------2020Android年高级面试----------------------
@@ -200,7 +201,9 @@
  
 
 #### 后续持续更新中，添加QQ群：957013433, 备注github
+** [资料领取地址](https://shimo.im/docs/VYcc3wyJRpy9jJ83/ )
 
- 
+**加QQ号，获取Android 2020年面试视频。发送"github "即可领取 另附企业内推，架构设计资料，相关视频资料**
 
+[QQ扫码](img/QQ二维码.jpg)
  
