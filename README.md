@@ -34,14 +34,14 @@
 
 ## ---------------------2020Android年高级面试----------------------
 
-- [2020年Bat面试集合](https://github.com/733gh/Android-Notes/tree/598d20d2a91c06cbec3a21909f4a4d87bbc88abd#2020年Bat面试集合)
-- [架构相关面试](https://github.com/733gh/Android-Notes/tree/598d20d2a91c06cbec3a21909f4a4d87bbc88abd#架构相关面试)
-- [NDK相关面试](https://github.com/733gh/Android-Notes/tree/598d20d2a91c06cbec3a21909f4a4d87bbc88abd#NDK相关面试)
-- [算法相关面试](https://github.com/733gh/Android-Notes/tree/598d20d2a91c06cbec3a21909f4a4d87bbc88abd#算法相关面试)
-- [高级UI相关面试](https://github.com/733gh/Android-Notes/tree/598d20d2a91c06cbec3a21909f4a4d87bbc88abd#高级UI相关面试)
-- [性能优化相关面试](https://github.com/733gh/Android-Notes/tree/598d20d2a91c06cbec3a21909f4a4d87bbc88abd#性能优化相关面试)
-- [专业领域相关面试](https://github.com/733gh/Android-Notes/tree/598d20d2a91c06cbec3a21909f4a4d87bbc88abd#专业领域相关面试)
-- [其他](https://github.com/733gh/Android-Notes/tree/598d20d2a91c06cbec3a21909f4a4d87bbc88abd#其他)
+- [2020年Bat面试集合](#2020年Bat面试集合)
+- [架构相关面试](#架构相关面试)
+- [NDK相关面试](#NDK相关面试)
+- [算法相关面试](#算法相关面试)
+- [高级UI相关面试](#高级UI相关面试)
+- [性能优化相关面试](#性能优化相关面试)
+- [专业领域相关面试](#专业领域相关面试)
+- [其他](#其他)
 
 ### 2020年Bat面试集合
 
