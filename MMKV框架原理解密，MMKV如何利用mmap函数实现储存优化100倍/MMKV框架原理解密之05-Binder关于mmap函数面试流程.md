@@ -70,8 +70,7 @@ Client 与 Server 处于不同进程有着不同的虚拟地址规则，所以�
 
 🤔️：再来画一个简单的示意图吧，这是一个比较典型的、两个应用之间的 IPC 通信流程图：
 
-![img](https://mmbiz.qpic.cn/sz_mmbiz_png/af0927004qrz9gGbgaNC9Qe4ec8rbR1ibfPBPIyHNnQ64saicm2GD09OeUnSg5ZiaxCxiaDickCyibRyuZYBfF4FGibtQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
+![img](img/112.jpg)
 ​		Client 通过 ServiceManager 或 AMS 获取到的远程 binder 实体，一般会用 **Proxy** 做一层封装，比如 ServiceManagerProxy、 AIDL 生成的 Proxy 类。而被封装的远程 binder 实体是一个 **BinderProxy**。
 
 ​	**BpBinder** 和 BinderProxy 其实是一个东西：远程 binder 实体，只不过一个 Native 层、一个 Java 层，BpBinder 内部持有了一个 binder 句柄值 handle。
