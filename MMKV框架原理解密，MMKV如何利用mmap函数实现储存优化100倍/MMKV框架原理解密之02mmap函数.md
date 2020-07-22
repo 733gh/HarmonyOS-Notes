@@ -9,7 +9,7 @@
 
 
 
-![img](https:////upload-images.jianshu.io/upload_images/4482847-a04d010b9c8e2391.png?imageMogr2/auto-orient/strip|imageView2/2/w/1000/format/webp)
+![img](https://upload-images.jianshu.io/upload_images/4482847-a04d010b9c8e2391.png?imageMogr2/auto-orient/strip|imageView2/2/w/1000/format/webp)
 
 mmap 原理
 
