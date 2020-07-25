@@ -42,7 +42,7 @@
 - [高级UI相关面试](#高级UI相关面试)
 - [性能优化相关面试](#性能优化相关面试)
 - [专业领域相关面试](#专业领域相关面试)
-- [Android 2020最新技术讲解](#Android 2020最新技术讲解)
+- [2020年Android最新技术讲解](#2020年Android最新技术讲解)
 - [其他](#其他)
 
 ### 2020年Bat面试集合
@@ -186,8 +186,8 @@
 
 [-----持续更新 未完待续-------](https://github.com/733gh/Android-Notes/tree/598d20d2a91c06cbec3a21909f4a4d87bbc88abd#)
 
-### Android 2020最新技术讲解
-[Android 2020最新技术讲解](https://github.com/733gh/Android-Notes/blob/master/%E6%8A%80%E6%9C%AF%E8%AE%B2%E8%A7%A3.md)
+### 2020年Android最新技术讲解
+[2020年Android最新技术讲解](https://github.com/733gh/Android-Notes/blob/master/%E6%8A%80%E6%9C%AF%E8%AE%B2%E8%A7%A3.md)
 
 
 
