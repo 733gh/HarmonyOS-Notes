@@ -2,7 +2,7 @@
 
  
 
-### ![面试](img/面试.jpg)写给Android的一封信
+## ![面试](img/面试.jpg)写给Android的一封信
 
  
 
@@ -45,7 +45,7 @@
 - [2020年Android最新技术讲解](#2020年Android最新技术讲解)
 - [其他](#其他)
 
-### 2020年Bat面试集合
+## 2020年Bat面试集合
 
 > 阿里巴巴面试集合
 
@@ -111,7 +111,7 @@
 
 [今日头条-sync关键字和lock的区别? 他们对线程的控制原理简单说下](https://github.com/733gh/Android-Notes/blob/598d20d2a91c06cbec3a21909f4a4d87bbc88abd/android/thread.md)
 
-### 架构相关面试
+## 架构相关面试
 
 [EventBus源码详解与架构分析，使用EventBus会造成什么弊端](https://github.com/733gh/Android-Notes/blob/598d20d2a91c06cbec3a21909f4a4d87bbc88abd/android/thread.md)
 
@@ -133,7 +133,7 @@
 
 [-----持续更新 未完待续-------](https://github.com/733gh/Android-Notes/tree/598d20d2a91c06cbec3a21909f4a4d87bbc88abd#)
 
-### NDK相关面试
+## NDK相关面试
 
 [Java中有指针吗？说说 为什么C会需要指针](https://github.com/733gh/Android-Notes/blob/598d20d2a91c06cbec3a21909f4a4d87bbc88abd/android/thread.md)
 
@@ -155,7 +155,7 @@
 
 [-----持续更新 未完待续-------](https://github.com/733gh/Android-Notes/tree/598d20d2a91c06cbec3a21909f4a4d87bbc88abd#)
 
-### 算法相关面试
+## 算法相关面试
 
 - [Hash值是如何生成](https://github.com/733gh/Android-Notes/blob/598d20d2a91c06cbec3a21909f4a4d87bbc88abd/basic/1-algo/2-hash.md)
 - [谈谈HashMap的原理](https://github.com/733gh/Android-Notes/blob/598d20d2a91c06cbec3a21909f4a4d87bbc88abd/basic/1-algo/2-hash.md)
@@ -168,7 +168,7 @@
 - [对称加密与非对称加密是如何实现的](https://github.com/733gh/Android-Notes/blob/598d20d2a91c06cbec3a21909f4a4d87bbc88abd/basic/1-algo/9-skip_list.md)
 - [-----持续更新 未完待续-------](https://github.com/733gh/Android-Notes/tree/598d20d2a91c06cbec3a21909f4a4d87bbc88abd#)
 
-### 高级UI相关面试
+## 高级UI相关面试
 
 [你知道Bat公司如何对屏幕适配的](https://github.com/733gh/Android-Notes/blob/598d20d2a91c06cbec3a21909f4a4d87bbc88abd/android/thread.md)
 
@@ -186,14 +186,27 @@
 
 [-----持续更新 未完待续-------](https://github.com/733gh/Android-Notes/tree/598d20d2a91c06cbec3a21909f4a4d87bbc88abd#)
 
-### 2020年Android最新技术讲解
+## 2020年Android最新技术讲解
 [2020年Android最新技术讲解](https://github.com/733gh/Android-Notes/blob/master/%E6%8A%80%E6%9C%AF%E8%AE%B2%E8%A7%A3.md)
 
+#### MMKV框架原理解密，MMKV如何利用mmap函数实现储存优化100倍
+
+* [MMKV框架原理解密之01MMKV使用](https://github.com/733gh/Android-Notes/blob/master/MMKV%E6%A1%86%E6%9E%B6%E5%8E%9F%E7%90%86%E8%A7%A3%E5%AF%86%EF%BC%8CMMKV%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8mmap%E5%87%BD%E6%95%B0%E5%AE%9E%E7%8E%B0%E5%82%A8%E5%AD%98%E4%BC%98%E5%8C%96100%E5%80%8D/MMKV%E6%A1%86%E6%9E%B6%E5%8E%9F%E7%90%86%E8%A7%A3%E5%AF%86%E4%B9%8B01MMKV%E4%BD%BF%E7%94%A8.md)
+* [MMKV框架原理解密之02mmap函数](https://github.com/733gh/Android-Notes/blob/master/MMKV%E6%A1%86%E6%9E%B6%E5%8E%9F%E7%90%86%E8%A7%A3%E5%AF%86%EF%BC%8CMMKV%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8mmap%E5%87%BD%E6%95%B0%E5%AE%9E%E7%8E%B0%E5%82%A8%E5%AD%98%E4%BC%98%E5%8C%96100%E5%80%8D/MMKV%E6%A1%86%E6%9E%B6%E5%8E%9F%E7%90%86%E8%A7%A3%E5%AF%86%E4%B9%8B02mmap%E5%87%BD%E6%95%B0.md)
+* [MMKV框架原理解密之03-MMKV使用为什么会有内核空间与用户空间](https://github.com/733gh/Android-Notes/blob/master/MMKV%E6%A1%86%E6%9E%B6%E5%8E%9F%E7%90%86%E8%A7%A3%E5%AF%86%EF%BC%8CMMKV%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8mmap%E5%87%BD%E6%95%B0%E5%AE%9E%E7%8E%B0%E5%82%A8%E5%AD%98%E4%BC%98%E5%8C%96100%E5%80%8D/MMKV%E6%A1%86%E6%9E%B6%E5%8E%9F%E7%90%86%E8%A7%A3%E5%AF%86%E4%B9%8B03-MMKV%E4%BD%BF%E7%94%A8%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%9C%89%E5%86%85%E6%A0%B8%E7%A9%BA%E9%97%B4%E4%B8%8E%E7%94%A8%E6%88%B7%E7%A9%BA%E9%97%B4.md)
+* [MMKV框架原理解密之04-内存管理单元](https://github.com/733gh/Android-Notes/blob/master/MMKV%E6%A1%86%E6%9E%B6%E5%8E%9F%E7%90%86%E8%A7%A3%E5%AF%86%EF%BC%8CMMKV%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8mmap%E5%87%BD%E6%95%B0%E5%AE%9E%E7%8E%B0%E5%82%A8%E5%AD%98%E4%BC%98%E5%8C%96100%E5%80%8D/MMKV%E6%A1%86%E6%9E%B6%E5%8E%9F%E7%90%86%E8%A7%A3%E5%AF%86%E4%B9%8B04-%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E5%8D%95%E5%85%83.md)
+* [MMKV框架原理解密之05-Binder关于mmap函数面试流程](https://github.com/733gh/Android-Notes/blob/master/MMKV%E6%A1%86%E6%9E%B6%E5%8E%9F%E7%90%86%E8%A7%A3%E5%AF%86%EF%BC%8CMMKV%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8mmap%E5%87%BD%E6%95%B0%E5%AE%9E%E7%8E%B0%E5%82%A8%E5%AD%98%E4%BC%98%E5%8C%96100%E5%80%8D/MMKV%E6%A1%86%E6%9E%B6%E5%8E%9F%E7%90%86%E8%A7%A3%E5%AF%86%E4%B9%8B05-Binder%E5%85%B3%E4%BA%8Emmap%E5%87%BD%E6%95%B0%E9%9D%A2%E8%AF%95%E6%B5%81%E7%A8%8B.md)
+* [MMKV框架原理解密之06-读懂Binder 从mmap开始](https://github.com/733gh/Android-Notes/blob/master/MMKV%E6%A1%86%E6%9E%B6%E5%8E%9F%E7%90%86%E8%A7%A3%E5%AF%86%EF%BC%8CMMKV%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8mmap%E5%87%BD%E6%95%B0%E5%AE%9E%E7%8E%B0%E5%82%A8%E5%AD%98%E4%BC%98%E5%8C%96100%E5%80%8D/MMKV%E6%A1%86%E6%9E%B6%E5%8E%9F%E7%90%86%E8%A7%A3%E5%AF%86%E4%B9%8B06-%E8%AF%BB%E6%87%82Binder%20%E4%BB%8Emmap%E5%BC%80%E5%A7%8B.md)
+* [MMKV框架原理解密，MMKV如何利用mmap函数实现储存优化100倍 讲解](https://www.bilibili.com/video/BV1LK4y1x7Ws)
+
+#### 屏蔽手机厂商底层适配细节。带你手写小米、Oppo、华为最强刘海屏适配架构
+* [小米手机适配](https://github.com/733gh/Android-Notes/blob/master/android/%E5%B0%8F%E7%B1%B3%E9%80%82%E9%85%8D.md)
+* [华为屏幕适配](https://github.com/733gh/Android-Notes/blob/master/android/%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E5%B1%8F%E5%B9%95%E9%80%82%E9%85%8D.md)
+* [Oppo手机适配](https://github.com/733gh/Android-Notes/blob/master/android/Oppo%E6%89%8B%E6%9C%BA%E9%80%82%E9%85%8D.md)
+* [各大手机厂商官方文档](https://github.com/733gh/Android-Notes/blob/master/android/%E5%90%84%E5%A4%A7%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3.md)
 
 
-
-
-### 专业领域相关面试
+## 专业领域相关面试
 
 > Opengl面试
 
