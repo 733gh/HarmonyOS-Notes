@@ -205,6 +205,14 @@
 * [Oppo手机适配](https://github.com/733gh/Android-Notes/blob/master/android/Oppo%E6%89%8B%E6%9C%BA%E9%80%82%E9%85%8D.md)
 * [各大手机厂商官方文档](https://github.com/733gh/Android-Notes/blob/master/android/%E5%90%84%E5%A4%A7%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3.md)
 
+## 深入讲解音视频编码原理，H264码流详解
+* **[音视频格式封装原理](https://github.com/733gh/Android-Notes/blob/master/android/%E9%9F%B3%E8%A7%86%E9%A2%91%E6%A0%BC%E5%BC%8F%E5%B0%81%E8%A3%85%E5%8E%9F%E7%90%86.md)**
+* **[视频压缩原理](https://github.com/733gh/Android-Notes/blob/master/android/%E8%A7%86%E9%A2%91%E5%8E%8B%E7%BC%A9%E5%8E%9F%E7%90%86.md)**
+* **[帧内预测](https://github.com/733gh/Android-Notes/blob/master/android/%E5%B8%A7%E5%86%85%E9%A2%84%E6%B5%8B.md)**
+* **[切片](https://github.com/733gh/Android-Notes/blob/master/android/%E5%88%87%E7%89%87.md)**
+* **[H264分层](https://github.com/733gh/Android-Notes/blob/master/android/H264%E5%88%86%E5%B1%82.md)**
+* **[手写H264编码器](https://github.com/733gh/Android-Notes/blob/master/android/%E6%89%8B%E5%86%99H264%E7%BC%96%E7%A0%81%E5%99%A8.md)**
+
 
 ## 专业领域相关面试
 
