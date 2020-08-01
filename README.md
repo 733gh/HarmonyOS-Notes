@@ -214,9 +214,9 @@
 * **[手写H264编码器](https://github.com/733gh/Android-Notes/blob/master/android/%E6%89%8B%E5%86%99H264%E7%BC%96%E7%A0%81%E5%99%A8.md)**
 
 ## javassist即时编译技术，美团热修复核心与原理解
-* **[javassist即时编译技术，美团热修复核心与原理解密01-美团热修复原理](https://github.com/733gh/Android-Notes/blob/master/android/javassist%E5%8D%B3%E6%97%B6%E7%BC%96%E8%AF%91%E6%8A%80%E6%9C%AF%EF%BC%8C%E7%BE%8E%E5%9B%A2%E7%83%AD%E4%BF%AE%E5%A4%8D%E6%A0%B8%E5%BF%83%E4%B8%8E%E5%8E%9F%E7%90%86%E8%A7%A3%E5%AF%8601-%E7%BE%8E%E5%9B%A2%E7%83%AD%E4%BF%AE%E5%A4%8D%E5%8E%9F%E7%90%86.md)
-* **[javassist即时编译技术，美团热修复核心与原理解密02-手写美团插件环境](https://github.com/733gh/Android-Notes/blob/master/android/javassist%E5%8D%B3%E6%97%B6%E7%BC%96%E8%AF%91%E6%8A%80%E6%9C%AF%EF%BC%8C%E7%BE%8E%E5%9B%A2%E7%83%AD%E4%BF%AE%E5%A4%8D%E6%A0%B8%E5%BF%83%E4%B8%8E%E5%8E%9F%E7%90%86%E8%A7%A3%E5%AF%8602-%E6%89%8B%E5%86%99%E7%BE%8E%E5%9B%A2%E6%8F%92%E4%BB%B6%E7%8E%AF%E5%A2%83.md)
-* **[javassist即时编译技术，美团热修复核心与原理解密03-Transform开发](https://github.com/733gh/Android-Notes/blob/master/android/javassist%E5%8D%B3%E6%97%B6%E7%BC%96%E8%AF%91%E6%8A%80%E6%9C%AF%EF%BC%8C%E7%BE%8E%E5%9B%A2%E7%83%AD%E4%BF%AE%E5%A4%8D%E6%A0%B8%E5%BF%83%E4%B8%8E%E5%8E%9F%E7%90%86%E8%A7%A3%E5%AF%8603-Transform%E5%BC%80%E5%8F%91.md)
+* **[javassist即时编译技术，美团热修复核心与原理解密01-美团热修复原理](https://github.com/733gh/Android-Notes/blob/master/android/javassist%E5%8D%B3%E6%97%B6%E7%BC%96%E8%AF%91%E6%8A%80%E6%9C%AF%EF%BC%8C%E7%BE%8E%E5%9B%A2%E7%83%AD%E4%BF%AE%E5%A4%8D%E6%A0%B8%E5%BF%83%E4%B8%8E%E5%8E%9F%E7%90%86%E8%A7%A3%E5%AF%8601-%E7%BE%8E%E5%9B%A2%E7%83%AD%E4%BF%AE%E5%A4%8D%E5%8E%9F%E7%90%86.md)**
+* **[javassist即时编译技术，美团热修复核心与原理解密02-手写美团插件环境](https://github.com/733gh/Android-Notes/blob/master/android/javassist%E5%8D%B3%E6%97%B6%E7%BC%96%E8%AF%91%E6%8A%80%E6%9C%AF%EF%BC%8C%E7%BE%8E%E5%9B%A2%E7%83%AD%E4%BF%AE%E5%A4%8D%E6%A0%B8%E5%BF%83%E4%B8%8E%E5%8E%9F%E7%90%86%E8%A7%A3%E5%AF%8602-%E6%89%8B%E5%86%99%E7%BE%8E%E5%9B%A2%E6%8F%92%E4%BB%B6%E7%8E%AF%E5%A2%83.md)**
+* **[javassist即时编译技术，美团热修复核心与原理解密03-Transform开发](https://github.com/733gh/Android-Notes/blob/master/android/javassist%E5%8D%B3%E6%97%B6%E7%BC%96%E8%AF%91%E6%8A%80%E6%9C%AF%EF%BC%8C%E7%BE%8E%E5%9B%A2%E7%83%AD%E4%BF%AE%E5%A4%8D%E6%A0%B8%E5%BF%83%E4%B8%8E%E5%8E%9F%E7%90%86%E8%A7%A3%E5%AF%8603-Transform%E5%BC%80%E5%8F%91.md)**
 
 ## 专业领域相关面试
 
