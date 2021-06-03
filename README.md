@@ -33,19 +33,19 @@
   - [视频学习地址](https://space.bilibili.com/598568989)
   - [详细说说Binder通信原理与机制](https://github.com/733gh/Android-Notes/blob/598d20d2a91c06cbec3a21909f4a4d87bbc88abd/android/binder.md)
 
-## ---------------------2020Android年高级面试----------------------
+## ---------------------2021Android年高级面试----------------------
 
-- [2020年Bat面试集合](#2020年Bat面试集合)
+- [2021年Bat面试集合](#2021年Bat面试集合)
 - [架构相关面试](#架构相关面试)
 - [NDK相关面试](#NDK相关面试)
 - [算法相关面试](#算法相关面试)
 - [高级UI相关面试](#高级UI相关面试)
 - [性能优化相关面试](#性能优化相关面试)
 - [专业领域相关面试](#专业领域相关面试)
-- [2020年Android最新技术讲解](#2020年Android最新技术讲解)
+- [2021年Android最新技术讲解](#2021年Android最新技术讲解)
 - [其他](#其他)
 
-## 2020年Bat面试集合
+## 2021年Bat面试集合
 
 > 阿里巴巴面试集合
 
@@ -186,8 +186,8 @@
 
 [-----持续更新 未完待续-------](https://github.com/733gh/Android-Notes/tree/598d20d2a91c06cbec3a21909f4a4d87bbc88abd#)
 
-## 2020年Android最新技术讲解
-[2020年Android最新技术讲解](https://github.com/733gh/Android-Notes/blob/master/%E6%8A%80%E6%9C%AF%E8%AE%B2%E8%A7%A3.md)
+## 2021年Android最新技术讲解
+[2021年Android最新技术讲解](https://github.com/733gh/Android-Notes/blob/master/%E6%8A%80%E6%9C%AF%E8%AE%B2%E8%A7%A3.md)
 
 #### MMKV框架原理解密，MMKV如何利用mmap函数实现储存优化100倍
 
@@ -251,10 +251,11 @@
 [-----持续更新 未完待续-------](https://github.com/733gh/Android-Notes/tree/598d20d2a91c06cbec3a21909f4a4d87bbc88abd#)
  
 
-#### 后续持续更新中，添加QQ群：[872206502](https://jq.qq.com/?_wv=1027&k=h536LTvD), 备注github
+#### 后续持续更新中，添加QQ群：[519844232](https://jq.qq.com/?_wv=1027&k=BSa10fze), 备注github
 **[资料领取地址](https://shimo.im/docs/VYcc3wyJRpy9jJ83/ )**
 
-**加QQ号，获取Android 2020年面试视频。发送"github "即可领取 另附企业内推，架构设计资料，相关视频资料**
+**加QQ号或微信，获取Android 2021年面试视频。发送"github "即可领取 另附企业内推，架构设计资料，相关视频资料**
 
-![QQ扫码](img/QQ二维码.jpg)
+<img src="https://user-images.githubusercontent.com/68420976/120619746-ddc4e280-c48e-11eb-8e88-ffefdadb3c37.png">
+<img src="https://user-images.githubusercontent.com/68420976/120620028-24b2d800-c48f-11eb-90c8-61807e72d703.png">
  
